@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KeepSolid</string>
+    <string name="hint_login">Enter login</string>
+    <string name="hint_password">Enter password</string>
+    <string name="login">Login</string>
+
+    <!--Errors-->
+    <string name="login_empty">Please enter login</string>
+    <string name="password_empty">Please enter password</string>
+    <string name="login_password_empty">Please enter credentials</string>
+</resources>
